@@ -30,7 +30,7 @@ Bagisto is an open-source eCommerce platform built on Laravel, designed to offer
     First, clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/ezraopande/bagisto.git
+    git clone https://github.com/ezraopande/Bagisto.git
     ```
 
 ## Contact
